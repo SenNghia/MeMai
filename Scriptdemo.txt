@@ -9,9 +9,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Key = {
         KeySystem = false,
         Title = "Key System",
-        Description = "",
-        KeyLink = "",
-        Keys = {"1234"},
+        Description = "Hack Mai",
+        KeyLink = "https://ymnnote.com/n/6e726e",
+        Keys = {"iquwuwiiw"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Running the Script...",
